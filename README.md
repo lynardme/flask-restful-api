@@ -1,4 +1,4 @@
-# flask-restful-api
+# Restful API with Python and Flask
 
 ## Create conda environment
 conda create --name flaskenv python=3
